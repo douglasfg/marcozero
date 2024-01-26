@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(90, 163, 114);
+}
+.imagens{
+    padding-bottom: 0%;
+    flex-direction: initial;
+}
+footer{
+    background-color: black;
+}
+h1{
+    color: aquamarine;
+    background-color: black;
+}
+.escrita-rodape{
+    color: aliceblue;
+}
+
